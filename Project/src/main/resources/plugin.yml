@@ -1,0 +1,3 @@
+name: Project
+version: '${project.version}'
+main: dev.m7wq.project.Project
